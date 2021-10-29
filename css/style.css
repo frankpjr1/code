@@ -96,13 +96,13 @@ font-size: 1.3em;
 .main-image{
 width: 90%;
 height: 400px;
-background-image: url("..\images\jazz.png");
+background-image: url("/images/jazz.png");
 background-size:cover;
 background-position: center;
 background-repeat: no-repeat;
 box-shadow:20px 20px 50px grey;   
 }
-.main-tex{
+.main-tex p{
     color: white;
 }
 /* footer styles */
