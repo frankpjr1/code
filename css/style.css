@@ -131,3 +131,11 @@ height: 1.2em;
 .footer-column-right img:hover{
     opacity: 20%;
     }
+
+
+
+    @media only screen and (max-width: 600px) {
+        h2 {
+          font-size: 3em;
+        }
+      }
