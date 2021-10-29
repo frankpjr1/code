@@ -134,7 +134,7 @@ height: 1.2em;
 
 
 
-    @media only screen and (max-width: 1010px) {
+    @media only screen and (max-width: 1120px) {
         .main-image {
           font-size: 3em;
         }
