@@ -96,7 +96,7 @@ font-size: 1.3em;
 .main-image{
 width: 90%;
 height: 400px;
-background-image: url("images\jazz.png");
+background-image: url("..images\jazz.png");
 background-size:cover;
 background-position: center;
 background-repeat: no-repeat;
