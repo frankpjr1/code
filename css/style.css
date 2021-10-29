@@ -68,8 +68,7 @@ justify-content: center;
 max-width: 80%;
 text-align: left;
 margin:auto;
-padding: 6.25em 3.25em ;
-     
+padding: 6.25em 3.25em;     
 }
 
 
@@ -97,13 +96,15 @@ font-size: 1.3em;
 .main-image{
 width: 90%;
 height: 400px;
-background-image: url("/images/jazz.png");
+background-image: url("images\jazz.png");
 background-size:cover;
 background-position: center;
 background-repeat: no-repeat;
 box-shadow:20px 20px 50px grey;   
 }
-
+.main-tex{
+    color: white;
+}
 /* footer styles */
 
 .footer-container{
@@ -119,3 +120,7 @@ padding-left: 1.5em;
 width: 1.2em;
 height: 1.2em;
 }
+
+.footer-column-right img:hover{
+    opacity: 20%;
+    }
